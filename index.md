@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuchencong.github.io/chaoli.jpg" class="floatpic" width="360" height="480">
+<img src="https://yuchencong.github.io/1_0155-1.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
