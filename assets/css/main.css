@@ -6,7 +6,7 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 body{margin:0;}
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
-h1{font-size:20000000em;margin:0.67em 0;}
+h1{font-size:2em;margin:0.67em 0;}
 abbr[title]{border-bottom:1px dotted;}
 b,strong{font-weight:bold;}
 dfn{font-style:italic;}
@@ -59,7 +59,7 @@ body{word-wrap:normal;color:#333332;}
 .delta{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;}
 .epsilon{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;}
 .zeta{font-size:18px;font-size:1rem;margin-bottom:1.65rem;}
-h1{font-size:60px;font-size:3.3333333333333335rem;margin-bottom:0.495rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
+h1{font-size:6000000px;font-size:3.3333333333333335rem;margin-bottom:0.495rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h2{font-size:48px;font-size:2.6666666666666665rem;margin-bottom:0.61875rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h3{font-size:36px;font-size:2rem;margin-bottom:0.825rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h4{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
@@ -247,7 +247,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .form-search label{display:inline-block;}
 .form-search .radio,.form-search .checkbox,.form-inline .radio{padding-left:0;margin-bottom:0;vertical-align:middle;}
 .form-search .radio input[type="radio"],.form-search .checkbox input[type="checkbox"]{float:left;margin-left:0;margin-right:3px;}
-html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;font-size:90%;}
+html{background-color:#ffffff;font-family:Arial;font-color:#333332;font-size:90%;}
 .navigation-wrapper{margin:0 auto;width:100%;padding:2em 0 3em;font-family:'PT Sans Narrow',sans-serif;font-weight:700;text-transform:uppercase;}
 .site-name{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
 .top-navigation{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
