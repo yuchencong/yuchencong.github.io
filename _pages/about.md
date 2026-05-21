@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
+# About Me
+I am a master's student in Health Data Science at Juntendo University, supervised by Prof. Ryutaro Himeno and Prof. Zhe Sun. I am also a research assistant in the Tensor Learning Team at RIKEN AIP, supervised by Dr. Chao Li.
+
+My research focuses on tensor-network-based probabilistic modeling, score-based variational inference, and quantum-inspired machine learning. I am particularly interested in using structured tensor representations to approximate high-dimensional probability distributions and improve the scalability of probabilistic inference.
+
+Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology. My technical background includes Python, PyTorch, C++, Linux, and high-performance computing environments.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -43,12 +48,45 @@ redirect_from:
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023*, National Scholarship, China
+- *2022*, First Prize, 15th China University Computer Design Competition
+- *2020*, National Inspirational Scholarship, China
+- *2020*, Third Prize, 11th Lanqiaobei National Software Competition, C/C++ Track
 
 # 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.04 - Present*, **Juntendo University**, Tokyo, Japan  
+
+  Master of Health Data Science  
+
+  Supervisors: Prof. Ryutaro Himeno and Prof. Zhe Sun  
+
+  GPA: 3.74 / 4.00  
+
+  Research focus: Variational inference via tensor networks
+
+- *2019.08 - 2023.06*, **Qilu University of Technology**, Shandong, China  
+
+  Bachelor of Engineering in Computer Science and Technology  
+
+  GPA: 4.13 / 5.00
+
+# 💻 Research Experience
+
+- *2024.11 - Present*, **Research Assistant**, Tensor Learning Team, Center for Advanced Intelligence Project, RIKEN AIP, Tokyo, Japan  
+
+  Supervisor: Dr. Chao Li  
+
+  I work on tensor-network-based probabilistic modeling, quantum-inspired machine learning, and score-based variational inference. My current research studies how tensor-network representations can be used to approximate high-dimensional probability distributions and support scalable variational inference. I also investigate tensor network architecture search and its potential applications to quantum circuit architecture search. In addition, I have experience deploying machine learning experiments on HPC clusters, including Fugaku, Hokusai, and Raiden.
+
+# 🛠 Skills and Languages
+
+- **Programming:** Python, PyTorch, NumPy, C++, Linux
+
+- **High-performance computing:** Fugaku, Hokusai, Raiden
+
+- **Languages:** Chinese, English
+
+- **English test:** TOEIC 880 / 990
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
