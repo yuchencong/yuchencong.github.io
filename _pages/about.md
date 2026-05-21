@@ -18,10 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a master's student in Health Data Science at Juntendo University, supervised by Prof. Ryutaro Himeno and Prof. Zhe Sun. I am also a research assistant in the Tensor Learning Team at RIKEN AIP, supervised by Dr. Chao Li.
-
+I am a master's student in Health Data Science at Juntendo University, supervised by **Prof. Ryutaro Himeno and Prof. Zhe Sun**. I am also a research assistant in the Tensor Learning Team at RIKEN AIP, supervised by **Dr. Chao Li**.
 My research focuses on tensor-network-based probabilistic modeling, score-based variational inference, and quantum-inspired machine learning. I am particularly interested in using structured tensor representations to approximate high-dimensional probability distributions and improve the scalability of probabilistic inference.
-
 Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology. My technical background includes Python, PyTorch, C++, Linux, and high-performance computing environments.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -92,5 +90,5 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
