@@ -31,7 +31,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications & Presentations
+# 📝 Publications and Presentations
 -More information can be found on my **[Google Scholar profile](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl=en)**.
 
 - **Yuchen Cong**, Zhe Sun, Chao Li. *Score-based Variational Inference via Quantum Maximally Mixed States*. The Annual Conference of the Japanese Society for Artificial Intelligence, 2026. **[Oral Presentation]**

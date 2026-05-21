@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications & Presentations"
-    url: "/#-publications-and-presentations"
+  - title: "Publications and Presentations"
+    url: "/#publications-and-presentations"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Research Experience"
-    url: "/#-research-experience"
+    url: "/#research-experience"
 
   - title: "Skills and Languages"
-    url: "/#-skills-and-languages"
+    url: "/#skills-and-languages"
