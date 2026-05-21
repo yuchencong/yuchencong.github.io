@@ -19,7 +19,9 @@ redirect_from:
 
 # About Me
 I am a master's student in Health Data Science at Juntendo University, supervised by **Prof. Ryutaro Himeno and Prof. Zhe Sun**. I am also a research assistant in the Tensor Learning Team at RIKEN AIP, supervised by **Dr. Chao Li**.
+
 My research focuses on tensor-network-based probabilistic modeling, score-based variational inference, and quantum-inspired machine learning. I am particularly interested in using structured tensor representations to approximate high-dimensional probability distributions and improve the scalability of probabilistic inference.
+
 Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology. My technical background includes Python, PyTorch, C++, Linux, and high-performance computing environments.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,8 +31,12 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 📝 Publications  -->
+# 📝 Publications
+- Detailed information can be found in **[Google Scholar]**](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl). 
 
+- **Yuchen Cong**, Zhe Sun, Chao Li. *Score-based Variational Inference via Quantum Maximally Mixed States*. The Annual Conference of the Japanese Society for Artificial Intelligence, 2026. **[Oral Presentation]**
+
+- Chao Li, **Yuchen Cong**. *Tensor Network and its Structure Search Problem*. Mechanism of Brain and Mind Winter Workshop, 2025. **[Poster Presentation]**
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
