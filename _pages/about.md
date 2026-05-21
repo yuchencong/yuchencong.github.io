@@ -91,7 +91,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 
   I work on tensor-network-based probabilistic modeling, quantum-inspired machine learning, and score-based variational inference. My current research studies how tensor-network representations can be used to approximate high-dimensional probability distributions and support scalable variational inference. I also investigate tensor network architecture search and its potential applications to quantum circuit architecture search. In addition, I have experience deploying machine learning experiments on HPC clusters, including Fugaku, Hokusai, and Raiden.
 
-<span class='anchor' id='-skills-and-languages'></span>
+<span class='anchor' id='skills-and-languages'></span>
 
 # 🛠 Skills and Languages
 
