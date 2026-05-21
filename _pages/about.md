@@ -31,6 +31,8 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='publications-and-presentations'></span>
+
 # 📝 Publications and Presentations
 -More information can be found on my **[Google Scholar profile](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl=en)**.
 
@@ -52,11 +54,15 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2023*, National Scholarship, China
 - *2022*, First Prize, 15th China University Computer Design Competition
 - *2020*, National Inspirational Scholarship, China
 - *2020*, Third Prize, 11th Lanqiaobei National Software Competition, C/C++ Track
+
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2025.04 - Present*, **Juntendo University**, Tokyo, Japan  
@@ -75,6 +81,8 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 
   GPA: 4.13 / 5.00
 
+<span class='anchor' id='research-experience'></span>
+
 # 💻 Research Experience
 
 - *2024.11 - Present*, **Research Assistant**, Tensor Learning Team, Center for Advanced Intelligence Project, RIKEN AIP, Tokyo, Japan  
@@ -82,6 +90,8 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
   Supervisor: Dr. Chao Li  
 
   I work on tensor-network-based probabilistic modeling, quantum-inspired machine learning, and score-based variational inference. My current research studies how tensor-network representations can be used to approximate high-dimensional probability distributions and support scalable variational inference. I also investigate tensor network architecture search and its potential applications to quantum circuit architecture search. In addition, I have experience deploying machine learning experiments on HPC clusters, including Fugaku, Hokusai, and Raiden.
+
+<span class='anchor' id='-skills-and-languages'></span>
 
 # 🛠 Skills and Languages
 
