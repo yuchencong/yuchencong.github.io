@@ -31,12 +31,13 @@ Previously, I received my B.Eng. in Computer Science and Technology from Qilu Un
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications
-- Detailed information can be found in **[Google Scholar]**](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl). 
+# 📝 Publications & Presentations
+-More information can be found on my **[Google Scholar profile](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl=en)**.
 
 - **Yuchen Cong**, Zhe Sun, Chao Li. *Score-based Variational Inference via Quantum Maximally Mixed States*. The Annual Conference of the Japanese Society for Artificial Intelligence, 2026. **[Oral Presentation]**
 
 - Chao Li, **Yuchen Cong**. *Tensor Network and its Structure Search Problem*. Mechanism of Brain and Mind Winter Workshop, 2025. **[Poster Presentation]**
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
