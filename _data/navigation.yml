@@ -9,14 +9,11 @@ main:
   - title: "Publications and Presentations"
     url: "/#publications-and-presentations"
 
+  - title: "Education and Experience"
+    url: "/#education-and-experience"
+
+  - title: "Academic Service"
+    url: "/#academic-service"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
-
-  - title: "Educations"
-    url: "/#educations"
-
-  - title: "Research Experience"
-    url: "/#research-experience"
-
-  - title: "Skills and Languages"
-    url: "/#skills-and-languages"
