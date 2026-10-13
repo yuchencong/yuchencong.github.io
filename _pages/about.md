@@ -40,13 +40,14 @@ My research interests include **tensor networks**, **variational inference**, **
 
 - Yicong He, Chao Li, **Yuchen Cong**, Tomonori Shirakawa, Seiji Yunoki, Qibin Zhao. *Joint Structure Search for Tensor Network Operators Inspired by Symmetry Breaking*. [Paper](https://openreview.net/pdf?id=DZ76Xr7zct)
 
+See also my [Google Scholar profile](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl=en).
+
 ### Presentations
 
 - *2026*, **IBIS** — *QuanVI: Score-based Variational Inference via Quantum Maximally Mixed States*. Poster presentation.
 - *2026*, **JSAI** — *[Score-based Variational Inference via Quantum Maximally Mixed States](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/4O5-IS-2c-05)*. Oral presentation.
 - *2025*, **Mechanism of Brain and Mind Winter Workshop** — *[Tensor Network and its Structure Search Problem](https://brainsci.net/brainmind/BrainMind2025Poster.html)*. Poster presentation.
 
-See also my [Google Scholar profile](https://scholar.google.com/citations?user=IYInb5IAAAAJ&hl=en).
 
 <span class='anchor' id='education-and-experience'></span>
 
