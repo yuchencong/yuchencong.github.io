@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="intro-links" markdown="1">
 
-I am a master's student in [Health Data Science at **Juntendo University](https://www.juntendo.ac.jp/academics/graduate/hds/)**, supervised by **[Prof. Ryutaro Himeno** and **Prof. Zhe Sun](https://himeno-sun-lab.github.io/team/)**. I am also a research assistant in the **[Tensor Learning Team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html)**, supervised by **[Dr. Chao Li](https://chaoliatriken.github.io/)**.
+I am a master's student in [Health Data Science](https://www.juntendo.ac.jp/academics/graduate/hds/) at **[Juntendo University](https://www.juntendo.ac.jp/academics/graduate/hds/)**, supervised by **[Prof. Ryutaro Himeno](https://himeno-sun-lab.github.io/team/)** and **[Prof. Zhe Sun](https://himeno-sun-lab.github.io/team/)**. I am also a research assistant in the **[Tensor Learning Team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html)**, supervised by **[Dr. Chao Li](https://chaoliatriken.github.io/)**.
 
 My research interests include **[tensor networks](https://tensornetwork.org/)**, **variational inference**, **probabilistic modeling**, and **tensor network architecture search**. Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology.
 
@@ -35,7 +35,7 @@ My research interests include **[tensor networks](https://tensornetwork.org/)**,
 <span class='anchor' id='publications-and-presentations'></span>
 
 # 📝 Publications and Presentations
-
+<div class="intro-links" markdown="1">
 ### Publications
 
 - **Yuchen Cong**, Zerui Tao, Chao Li, Zhe Sun, Qibin Zhao. *QuanVI: Score-based Variational Inference via Quantum Maximally Mixed States*. **NeurIPS 2026**. [Paper](https://arxiv.org/pdf/2609.39164)
@@ -57,14 +57,15 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=I
 
 # 📖 Education and Experience
 
-- *Nov. 2024 – Present*, **RIKEN Center for Advanced Intelligence Project (AIP)**, Tokyo, Japan<br>
-  Research Assistant, Tensor Learning Team · Supervisor: Dr. Chao Li
+- *Nov. 2024 – Present*, **[RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/)**, Tokyo, Japan<br>
+  Research Assistant, [Tensor Learning Team](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html) · Supervisor: [Dr. Chao Li](https://chaoliatriken.github.io/)
 
-- *Apr. 2025 – Mar. 2027 (expected)*, **Juntendo University**, Tokyo, Japan<br>
+- *Apr. 2025 – Mar. 2027 (expected)*, **[Juntendo University](https://www.juntendo.ac.jp/)**, Tokyo, Japan<br>
   M.S. in Health Data Science
 
 - *Aug. 2019 – Jun. 2023*, **Qilu University of Technology**, Shandong, China<br>
   B.E. in Computer Science and Technology
+</div>
 
 <span class='anchor' id='academic-service'></span>
 
