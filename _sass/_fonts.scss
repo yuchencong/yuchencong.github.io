@@ -1,0 +1,19 @@
+// Local Latin subsets of Noto Sans SC. License: assets/fonts/noto-sans-sc-OFL.txt.
+// CJK glyphs use the webfont declared in head.html or an installed Noto font.
+@font-face {
+  font-family: "Noto Sans SC Local";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/noto-sans-sc-latin-regular.ttf") format("truetype");
+  unicode-range: U+0020-0026, U+0028-005B, U+005D-007E, U+00B7, U+2013-2014, U+2018-2019, U+201C-201D;
+}
+
+@font-face {
+  font-family: "Noto Sans SC Local";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/noto-sans-sc-latin-bold.ttf") format("truetype");
+  unicode-range: U+0020-0026, U+0028-005B, U+005D-007E, U+00B7, U+2013-2014, U+2018-2019, U+201C-201D;
+}
