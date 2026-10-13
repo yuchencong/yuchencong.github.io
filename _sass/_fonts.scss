@@ -1,19 +1,16 @@
-// Local Latin subsets of Noto Sans SC. License: assets/fonts/noto-sans-sc-OFL.txt.
-// CJK glyphs use the webfont declared in head.html or an installed Noto font.
+// Inter variable fonts, hosted locally. License: assets/fonts/inter-OFL.txt.
 @font-face {
-  font-family: "Noto Sans SC Local";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 100 900;
   font-display: swap;
-  src: url("../fonts/noto-sans-sc-latin-regular.ttf") format("truetype");
-  unicode-range: U+0020-0026, U+0028-005B, U+005D-007E, U+00B7, U+2013-2014, U+2018-2019, U+201C-201D;
+  src: url("../fonts/InterVariable.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Noto Sans SC Local";
-  font-style: normal;
-  font-weight: 700;
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 100 900;
   font-display: swap;
-  src: url("../fonts/noto-sans-sc-latin-bold.ttf") format("truetype");
-  unicode-range: U+0020-0026, U+0028-005B, U+005D-007E, U+00B7, U+2013-2014, U+2018-2019, U+201C-201D;
+  src: url("../fonts/InterVariable-Italic.woff2") format("woff2");
 }
