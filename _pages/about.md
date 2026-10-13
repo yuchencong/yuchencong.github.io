@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="intro-links" markdown="1">
 
-I am a master's student in [Health Data Science](https://www.juntendo.ac.jp/academics/graduate/hds/) at **Juntendo University**, supervised by **[Prof. Ryutaro Himeno](https://himeno-sun-lab.github.io/team/)** and **[Prof. Zhe Sun](https://himeno-sun-lab.github.io/team/)**. I am also a research assistant in the **[Tensor Learning Team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html)**, supervised by **[Dr. Chao Li](https://chaoliatriken.github.io/)**.
+I am a master's student in [Health Data Science at **Juntendo University](https://www.juntendo.ac.jp/academics/graduate/hds/)**, supervised by **[Prof. Ryutaro Himeno** and **Prof. Zhe Sun](https://himeno-sun-lab.github.io/team/)**. I am also a research assistant in the **[Tensor Learning Team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html)**, supervised by **[Dr. Chao Li](https://chaoliatriken.github.io/)**.
 
 My research interests include **[tensor networks](https://tensornetwork.org/)**, **variational inference**, **probabilistic modeling**, and **tensor network architecture search**. Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology.
 
