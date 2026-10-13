@@ -16,6 +16,10 @@ I am a master's student in Health Data Science at **Juntendo University**, super
 
 My research interests include **tensor networks**, **variational inference**, **probabilistic modeling**, and **tensor network architecture search**. Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology.
 
+<div class="opportunities-callout">
+  <p><span aria-hidden="true">🚀</span> I am seeking PhD and industry opportunities and would be glad to <a href="mailto:yuchen.cong.z@gmail.com">connect</a>.</p>
+</div>
+
 <span class='anchor' id='news'></span>
 
 # 🔥 News
