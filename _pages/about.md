@@ -20,7 +20,7 @@ My research interests include **tensor networks**, **variational inference**, **
 
 # 🔥 News
 
-- *2026*: **QuanVI** appears in **NeurIPS 2026**.
+- *2026.09*: **QuanVI** appears in **NeurIPS 2026**.
 - *2026.05*: I serve as a reviewer for an **ICML workshop**.
 
 <span class='anchor' id='publications-and-presentations'></span>
