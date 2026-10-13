@@ -12,9 +12,13 @@ redirect_from:
 
 # About Me
 
+<div class="intro-links" markdown="1">
+
 I am a master's student in [Health Data Science](https://www.juntendo.ac.jp/academics/graduate/hds/) at **Juntendo University**, supervised by **[Prof. Ryutaro Himeno](https://himeno-sun-lab.github.io/team/)** and **[Prof. Zhe Sun](https://himeno-sun-lab.github.io/team/)**. I am also a research assistant in the **[Tensor Learning Team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/math/tensor_learn/index.html)**, supervised by **[Dr. Chao Li](https://chaoliatriken.github.io/)**.
 
 My research interests include **[tensor networks](https://tensornetwork.org/)**, **variational inference**, **probabilistic modeling**, and **tensor network architecture search**. Previously, I received my B.Eng. in Computer Science and Technology from Qilu University of Technology.
+
+</div>
 
 <div class="opportunities-callout">
   <p><span aria-hidden="true">🚀</span> I am seeking PhD and industry opportunities and would be glad to <a href="mailto:yuchen.cong.z@gmail.com">connect</a>.</p>

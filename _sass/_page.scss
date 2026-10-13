@@ -120,6 +120,20 @@
     }
   }
 
+  .intro-links a {
+    color: inherit;
+    text-decoration: none;
+
+    &:visited {
+      color: inherit;
+    }
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
